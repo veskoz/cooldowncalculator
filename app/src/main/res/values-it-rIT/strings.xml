@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cooldownCalculator</string>
+    <string name="distance">Distanza in Km</string>
+    <string name="insert_coordinate_A">Coordinata A</string>
+    <string name="insert_valid_coordinate">Inserire coordinata valida</string>
+    <string name="km">Km</string>
+    <string name="minute">Minuto</string>
+    <string name="minutes">Minuti</string>
+    <string name="time">Tempo</string>
+    <string name="calculate_distance">CALCOLA DISTANZA</string>
+    <string name="insert_coordinate_B">Coordinata B</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">cooldownCalculator</string>
+    <string name="calculate_distance">CALCULATE DISTANCE</string>
+    <string name="distance">Distance in Km</string>
+    <string name="insert_coordinate_A">Coordinate A</string>
+    <string name="insert_valid_coordinate">Insert valid coordinate</string>
+    <string name="km">Km</string>
+    <string name="minute">Minute</string>
+    <string name="minutes">Minutes</string>
+    <string name="time">Time</string>
+    <string name="insert_coordinate_B">Coordinate B</string>
+</resources>
